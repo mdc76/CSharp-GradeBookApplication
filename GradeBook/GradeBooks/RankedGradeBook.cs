@@ -44,7 +44,7 @@ namespace GradeBook.GradeBooks
                 return 'F';
             }
 
-            return base.GetLetterGrade(averageGrade);
+            //return base.GetLetterGrade(averageGrade);
         }
     }
 }
